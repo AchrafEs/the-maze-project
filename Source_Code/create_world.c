@@ -1,5 +1,13 @@
 #include "../maze.h"
 
+/**
+ * build_world_from_args - a function to create the maze
+ * @num_of_lvls: the number of levels
+ * @level_files: an array pointer to the levels
+ *
+ * Return: levels
+ */
+
 level *build_world_from_args(int num_of_lvls, char *level_files[])
 {
 	level stage = {NULL, 0, {0, 0}, {2, 2}, {-1, 0}, {0, 0.5} };
