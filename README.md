@@ -29,5 +29,4 @@ make
 ```
 Or choose any other level you want to try
 ### Find me On:
-[X](https://twitter.com/AchrafSeddyq)
-[Github](https://github.com/AchrafEs)
+[X](https://twitter.com/AchrafSeddyq) Or [Github](https://github.com/AchrafEs)
