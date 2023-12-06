@@ -25,9 +25,9 @@ make
 ```
 4. Run the maze with the map you'd like to play:
 ```
-./maze maps/level_1
+./maze Maps/level_1
 ```
-### Author:
+Or choose any other level you want to try
+### Find me On:
 [X](https://twitter.com/AchrafSeddyq)
-
 [Github](https://github.com/AchrafEs)
