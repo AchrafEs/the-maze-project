@@ -12,11 +12,14 @@ The Maze is written in C using SDL2 library. Deveploment was performed using Ubu
 
 1. first you need to clone the repository:
 ```
-https://github.com/AchrafEs/the-maze-project.git
+git clone https://github.com/AchrafEs/the-maze-project.git
 ```
 2. If you don't have SDL2 installed install it using the provided file with this commands:
 ```
 chmod 755 install_SDL2.sh
+```
+----
+```
 sudo ./install_SDL2.sh
 ```
 3. Compile everything using this command:
