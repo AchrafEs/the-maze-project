@@ -33,3 +33,7 @@ make
 
 ### Find me On:
 [X](https://twitter.com/AchrafSeddyq)	&	[Github](https://github.com/AchrafEs)
+
+## Licensing:
+
+This Project is licensed under Alx Africa Software engineeering program, and it's for education purposes only, everyone can copy and modify the content of this repo.
